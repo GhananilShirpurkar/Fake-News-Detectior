@@ -1,5 +1,16 @@
+# Virtual Environment
 .venv/
+
+# Python cache
 __pycache__/
 *.pyc
-data/
+
+# Environment variables
 .env
+
+# Data and artifacts
+data/
+models/
+
+# OS files
+.DS_Store
