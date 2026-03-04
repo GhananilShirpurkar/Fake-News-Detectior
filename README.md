@@ -34,11 +34,6 @@
 
 </div>
 
-> **How to add your screenshots:**
-> 1. Create an `assets/` folder in the project root
-> 2. Save your screenshots as `assets/screenshot-main.png` and `assets/screenshot-results.png`
-> 3. Delete this tip block — the images will render automatically on GitHub
-
 ---
 
 ## 📌 Overview
@@ -230,7 +225,7 @@ fake-news-detector/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/fake-news-detector.git
+git clone https://github.com/GhananilShirpurkar/fake-news-detector.git
 cd fake-news-detector
 ```
 
@@ -298,16 +293,6 @@ This model detects **writing style patterns** — it cannot verify facts.
 | Static vocabulary | Rare or emerging terms may be out-of-vocabulary |
 
 More capable systems would incorporate knowledge graphs, transformer models (BERT / RoBERTa), and live fact-checking APIs.
-
----
-
-## 🔮 Future Improvements
-
-- [ ] Fine-tuned BERT / RoBERTa classifier
-- [ ] Real-time fact verification via external knowledge bases
-- [ ] Browser extension for inline detection while browsing
-- [ ] Multilingual support
-- [ ] Web deployment (FastAPI + React frontend)
 
 ---
 
